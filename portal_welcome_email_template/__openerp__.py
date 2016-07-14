@@ -17,6 +17,7 @@
     "installable": True,
     "depends": [
         "portal",
+        "mail",
     ],
     "data": [
         "data/email_template_data.xml",
